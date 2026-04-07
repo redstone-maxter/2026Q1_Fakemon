@@ -1,0 +1,66 @@
+{
+  "id": "max",
+  "name": "Glasser",
+  "createdBy": "Max Mallory",
+  "emoji": "💀",
+  "type": "Normal",
+
+  
+  "hp": 500,       
+  "power": 300,    
+  "speed": 300,     
+  "defense": 1,
+  "accuracy": 100,
+
+  "description": "This pokemon is incredibly fast, just dont get hit..",
+
+  "moves": [
+
+
+    
+    {
+      "id": "glass_shard",
+      "name": "Glass Shard",
+      "desc": "A slashing attack with a chance to burn with its immense speed",
+      "speed": "fast",
+      "damage": [50, 50],
+      "status": "burn",
+      "statusChance": 1.00
+    },
+
+   
+    {
+      "id": "glass_crash",
+      "name": "⚔️ Quick Slash",
+      "desc": "A lightning-fast claw swipe. No frills.",
+      "speed": "fast",
+      "damage": [100, 100],
+      "status": "paralize",
+      "statusChance": 0.20
+    },
+
+   
+    {
+      "id": "glass_repair",
+      "name": "💊 Heal Move",
+      "desc": "Restore 25 HP.",
+      "speed": "slow",
+      "damage": [-100, -100],
+      "status": null,
+      "statusChance": 0
+    },
+
+    
+    {
+      "id": "glassy_dance",
+      "name": "Glass Dance",
+      "desc": "boosts your attack by 2 stages",
+      "speed": "medium",
+      "damage": [10, 10],
+      "status": "statup",
+      "statusChance": 1.0
+    }
+
+
+  ]
+}
