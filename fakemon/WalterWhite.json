@@ -1,0 +1,64 @@
+{
+  "id": "WalterWhite",
+  "name": "WalterWhite",
+  "createdBy": "Sean McGarry",
+  "emoji": "🧪🥼",
+  "type": "Normal",
+
+  
+  "hp": 115,       
+  "power": 80,    
+  "speed": 95,     
+  "defense": 35,  
+  "accuracy": 90, 
+
+  "description": "Jesse, we need to cook.",
+
+  "moves": [
+
+    
+    {
+      "id": "cook",
+      "name": "Expert cooking",
+      "desc": "cooks some not so healthy stuff for the other fakemon",
+      "speed": "slow",
+      "damage": [10, 27],
+      "status": null,
+      "statusChance": 0
+    },
+
+    
+    {
+      "id": "Gun",
+      "name": "Glock",
+      "desc": "Uh Oh, you made Walter angry...",
+      "speed": "fast",
+      "damage": [20, 45],
+      "status": null,
+      "statusChance": 0
+    },
+
+    
+    {
+      "id": "Meds",
+      "name": "💊 Meds",
+      "desc": "Restore 20 to 30 HP.",
+      "speed": "fast",
+      "damage": [-25, -30],
+      "status": "Stat up",
+      "statusChance": 0.15
+    },
+ 
+    {
+      "id": "Saul",
+      "name": "Better call Saul 📞",
+      "desc": "Im suing you...",
+      "speed": "slow",
+      "damage": [-5, -10],
+      "status": "Stat down",
+      "statusChance": 1.0
+    }
+
+   
+  ]
+}
