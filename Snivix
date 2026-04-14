@@ -28,7 +28,7 @@
       "speed":        "medium",
       "damage": [1, 1000000000000000],
       "status":       "paralyze",
-      "statusChance": 1.0
+      "statusChance": 0.99
     },
     {
       "id":           "popastim",
@@ -46,7 +46,7 @@
       "speed":        "fast",
       "damage": [0, 0],
       "status":       "statup",
-      "statusChance": 1.0,
+      "statusChance": 0.99,
       "statTarget":   "defense"
     },
     {
@@ -56,7 +56,7 @@
       "speed":        "fast",
       "damage": [0, 100],
       "status":       "statdwn",
-      "statusChance": 1.0,
+      "statusChance": 0.99,
       "statTarget":   "speed"
     },
     {
@@ -66,7 +66,7 @@
       "speed": "medium",
       "damage": [10, 10],
       "statuses": [
-        { "status": "paralyze",  "statusChance": 1.0 },
+        { "status": "paralyze",  "statusChance": 0.9 },
         { "status": "confuse", "statusChance": 0.9 }
       ]
     }
