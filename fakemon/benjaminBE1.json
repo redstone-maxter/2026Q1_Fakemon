@@ -3,7 +3,7 @@
   "name": "QuickShot",
   "createdBy": "Benjamin John Bero Alcantara",
   "emoji": "🏹",
-  "type": "ghost",
+  "type": "nature",
 
   "hp": 80,
   "power": 85,
@@ -11,7 +11,7 @@
   "defense": 15,
   "accuracy": 85,
 
-  "description": "A old wooden bow that has been possed by a ghost. With high hitting plus fast moves",
+  "description": "An old wooden bow with high hitting plus fast moves",
 
   "moves": [
 
@@ -63,7 +63,7 @@
       "desc": "A high damage many arrow volley.",
       "speed": "slow",
       "damage": [20, 25],
-      "status": "null",
+      "status": null,
       "statusChance": 0
     }
   ]
