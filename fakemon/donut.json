@@ -14,7 +14,7 @@
   "moves": [
     {
       "id":           "Doh!",
-      "name":         "🔥 Move One",
+      "name":         "🔥 Doh!",
       "desc":         "A straightforward attack.",
       "speed":        "fast",
       "damage": [15, 90],
@@ -31,11 +31,11 @@
       "statusChance": 0.365
     },
     {
-      "id":           "pastry of healing",
-      "name":         "💊 Recover",
+      "id":           "healing_donut",
+      "name":         "💊 pastry of healing",
       "desc":         "Restores 45 HP.",
       "speed":        "slow",
-      "damage": [-25, -25],
+      "damage": [-45, -45],
       "status":       null,
       "statusChance": 0
     },
