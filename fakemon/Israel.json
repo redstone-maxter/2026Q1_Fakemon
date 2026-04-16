@@ -6,11 +6,11 @@
   "type": "Normal",
 
  
-  "hp": 70,      
+  "hp": 90,      
   "power": 100,    
-  "speed": 40,     
-  "defense": 25,  
-  "accuracy": 75, 
+  "speed": 60,     
+  "defense": 35,  
+  "accuracy": 90, 
 
   "description": "A country that is definitely not Israel",
 
@@ -22,7 +22,7 @@
       "name": "Jericho 3",
       "desc": "A ICBM that is fast acting but does low to medium damage",
       "speed": "fast",
-      "damage": [30, 60],
+      "damage": [30, 70],
       "status": null,
       "statusChance": 0
     },
