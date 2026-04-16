@@ -5,11 +5,11 @@
   "emoji":       "🪔",
   "type":        "Metal",
   "description": "Mercy is NOT an option.",
-  "hp":       1000000000000,
-  "power":    1000000000000,
-  "speed":    100,
-  "defense":  1000000000000,
-  "accuracy": 100,
+  "hp":       100000000000000,
+  "power":    100000000000000,
+  "speed":    100000000000000,
+  "defense":  100000000000000,
+  "accuracy": 100000000000000,
 
   "moves": [
     {
