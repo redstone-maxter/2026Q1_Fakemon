@@ -5,6 +5,10 @@
   "emoji": "😵‍💫",
   "type": "Normal",
   "hp": 100,
+  "atk": 90,
+  "speed": 120,
+  "defense": 15,
+  "accuracy": 80,
   "color": "#378ADD",
   "description": "A slimy frog that oozes toxic bubbles. Its skin secretes a mild hallucinogen.",
   "moves": [
