@@ -1,8 +1,8 @@
 # Fakemon Content Check Report
 
-**Generated:** 2026-04-20 16:48:45  
-**Files scanned:** 46  
-**Files flagged:** 14  
+**Generated:** 2026-04-21 18:51:15  
+**Files scanned:** 49  
+**Files flagged:** 15  
 
 ---
 
@@ -78,6 +78,14 @@
 | Line | Category | Action | Matched / Message | Full Line |
 |------|----------|--------|-------------------|-----------|
 | 18 | 😠 Bullying/Targeting | REVIEW ONLY | `useless` | `"desc":         "Mock this useless creature.",` |
+
+## 🚩 `immortal.json`
+
+**1 issue(s)**
+
+| Line | Category | Action | Matched / Message | Full Line |
+|------|----------|--------|-------------------|-----------|
+| 7 | 😠 Bullying/Targeting | REVIEW ONLY | `weak` | `"description": "WHERE IS OMNI-MAN? WHERE IS HE!!!  Is weak to viltramites and sea salt.",` |
 
 ## 🚩 `jacob.json`
 
