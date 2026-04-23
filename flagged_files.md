@@ -1,8 +1,8 @@
 # Fakemon Content Check Report
 
-**Generated:** 2026-04-22 18:32:36  
-**Files scanned:** 91  
-**Files flagged:** 31  
+**Generated:** 2026-04-23 19:01:29  
+**Files scanned:** 97  
+**Files flagged:** 33  
 
 ---
 
@@ -118,14 +118,6 @@
 
 ## 🔧 Syntax / ID Errors Only
 
-### 🚩 `Marlow_1.json`
-
-**1 issue(s)**
-
-| Line | Category | Action | Matched / Message | Full Line |
-|------|----------|--------|-------------------|-----------|
-| — | 📛 ID/Filename | REVIEW ONLY | `Case mismatch — filename is "Marlow_1.json" but id is "marlow_1". Did you mean id: "Marlow_1"?  (IDs are case-sensitive)` | `` |
-
 ### 🚩 `Dylan.json`
 
 **1 issue(s)**
@@ -141,6 +133,14 @@
 | Line | Category | Action | Matched / Message | Full Line |
 |------|----------|--------|-------------------|-----------|
 | — | 📛 ID/Filename | REVIEW ONLY | `Case mismatch — filename is "Gorgrigralla.json" but id is "gorgrigralla". Did you mean id: "Gorgrigralla"?  (IDs are case-sensitive)` | `` |
+
+### 🚩 `Marlow_1.json`
+
+**1 issue(s)**
+
+| Line | Category | Action | Matched / Message | Full Line |
+|------|----------|--------|-------------------|-----------|
+| — | 📛 ID/Filename | REVIEW ONLY | `Case mismatch — filename is "Marlow_1.json" but id is "marlow_1". Did you mean id: "Marlow_1"?  (IDs are case-sensitive)` | `` |
 
 ### 🚩 `Milo.json`
 
@@ -204,7 +204,7 @@
 
 | Line | Category | Action | Matched / Message | Full Line |
 |------|----------|--------|-------------------|-----------|
-| — | 📛 ID/Filename | REVIEW ONLY | `Mismatch — filename is "caypybara.json" but id is "kyan1_1". The "id" field must exactly match the filename (case-sensitive).` | `` |
+| — | 📛 ID/Filename | REVIEW ONLY | `Near-miss — filename is "caypybara.json" but id is "capybara" (94% similar). Did you mean id: "caypybara"?` | `` |
 
 ### 🚩 `daniel.json`
 
@@ -254,6 +254,14 @@
 |------|----------|--------|-------------------|-----------|
 | — | 📛 ID/Filename | REVIEW ONLY | `Mismatch — filename is "rayan.json" but id is "draghsock". The "id" field must exactly match the filename (case-sensitive).` | `` |
 
+### 🚩 `robinson.json`
+
+**1 issue(s)**
+
+| Line | Category | Action | Matched / Message | Full Line |
+|------|----------|--------|-------------------|-----------|
+| — | 📛 ID/Filename | REVIEW ONLY | `Near-miss — filename is "robinson.json" but id is "robinson1_1" (84% similar). Did you mean id: "robinson"?` | `` |
+
 ### 🚩 `stormtrooper.json`
 
 **1 issue(s)**
@@ -277,4 +285,12 @@
 | Line | Category | Action | Matched / Message | Full Line |
 |------|----------|--------|-------------------|-----------|
 | — | 📛 ID/Filename | REVIEW ONLY | `Mismatch — filename is "zachary.json" but id is "zachary.json". The "id" field must exactly match the filename (case-sensitive).` | `` |
+
+### 🚩 `zachary2.json`
+
+**1 issue(s)**
+
+| Line | Category | Action | Matched / Message | Full Line |
+|------|----------|--------|-------------------|-----------|
+| — | 📛 ID/Filename | REVIEW ONLY | `Mismatch — filename is "zachary2.json" but id is "zachary1_1". The "id" field must exactly match the filename (case-sensitive).` | `` |
 
