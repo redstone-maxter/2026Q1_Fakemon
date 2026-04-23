@@ -1,8 +1,8 @@
 # Fakemon Content Check Report
 
-**Generated:** 2026-04-23 18:40:46  
-**Files scanned:** 91  
-**Files flagged:** 31  
+**Generated:** 2026-04-23 18:45:54  
+**Files scanned:** 93  
+**Files flagged:** 32  
 
 ---
 
@@ -204,7 +204,7 @@
 
 | Line | Category | Action | Matched / Message | Full Line |
 |------|----------|--------|-------------------|-----------|
-| — | 📛 ID/Filename | REVIEW ONLY | `Mismatch — filename is "caypybara.json" but id is "kyan1_1". The "id" field must exactly match the filename (case-sensitive).` | `` |
+| — | 📛 ID/Filename | REVIEW ONLY | `Near-miss — filename is "caypybara.json" but id is "capybara" (94% similar). Did you mean id: "caypybara"?` | `` |
 
 ### 🚩 `daniel.json`
 
@@ -277,4 +277,12 @@
 | Line | Category | Action | Matched / Message | Full Line |
 |------|----------|--------|-------------------|-----------|
 | — | 📛 ID/Filename | REVIEW ONLY | `Mismatch — filename is "zachary.json" but id is "zachary.json". The "id" field must exactly match the filename (case-sensitive).` | `` |
+
+### 🚩 `zachary2.json`
+
+**1 issue(s)**
+
+| Line | Category | Action | Matched / Message | Full Line |
+|------|----------|--------|-------------------|-----------|
+| — | 📛 ID/Filename | REVIEW ONLY | `Mismatch — filename is "zachary2.json" but id is "zachary1_1". The "id" field must exactly match the filename (case-sensitive).` | `` |
 
